@@ -68,9 +68,6 @@
   "13": {
     "date": "2026-10-26",
     "seed": "-401166002744858546",
-    "notes": "srigt file corrupted\nLost 1+ hour to dying to wither and needed phantoms",
-    "intentionalDeaths": [
-      1
-    ]
+    "notes": "srigt file corrupted, it wiped the time and all advancements\nIt was saved in hermes, so i could get them from there\n\nThen the wither escaped and i died, needed phantoms, so lost over 1 hour"
   }
 }
